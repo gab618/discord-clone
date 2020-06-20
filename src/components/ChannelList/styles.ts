@@ -15,6 +15,10 @@ export const Category = styled.div`
   justify-content: space-between;
   margin-bottom: 6px;
 
+  &:not(:first-child) {
+    margin-top: 20px;
+  }
+
   > span {
     text-transform: uppercase;
     font-size: 12px;

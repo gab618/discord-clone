@@ -28,12 +28,13 @@ const UserList: React.FC = () => {
 
       <Role>Disponível - 2</Role>
 
+      <UserRow nickname="Alan Turing" />
       <UserRow nickname="Gothic Graves" />
       <UserRow nickname="Panela Craft" />
 
       <Role>Offline - 18</Role>
 
-      <UserRow nickname="Diego Fernandes" isBot />
+      <UserRow nickname="Dyno" isBot />
       <UserRow nickname="Fulano" />
       <UserRow nickname="Fulano" />
       <UserRow nickname="Fulano" />

@@ -37,9 +37,9 @@ Clone da interface do Discord para fins de estudo.
 
 ### Objetivos do estudo
 
-[x] Praticar Grid Layouot
-[x] Pratica Flex Layout
-[x] Ter um primeiro contato com TypeScript
+- [x] Praticar Grid Layouot
+- [x] Pratica Flex Layout
+- [x] Ter um primeiro contato com TypeScript
 
 
 
